@@ -7,6 +7,7 @@ namespace SampleBookingApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hi, i'm booking app.");
+            Console.WriteLine("I'm from master branch!");
             Console.ReadKey(true);
         }
     }
