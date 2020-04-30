@@ -1,7 +1,0 @@
-C:\Users\Mikhail Shelomentsev\source\repos\SampleBookingApp\bin\Debug\SampleBookingApp.exe.config
-C:\Users\Mikhail Shelomentsev\source\repos\SampleBookingApp\bin\Debug\SampleBookingApp.exe
-C:\Users\Mikhail Shelomentsev\source\repos\SampleBookingApp\bin\Debug\SampleBookingApp.pdb
-C:\Users\Mikhail Shelomentsev\source\repos\SampleBookingApp\obj\Debug\SampleBookingApp.csprojAssemblyReference.cache
-C:\Users\Mikhail Shelomentsev\source\repos\SampleBookingApp\obj\Debug\SampleBookingApp.csproj.CoreCompileInputs.cache
-C:\Users\Mikhail Shelomentsev\source\repos\SampleBookingApp\obj\Debug\SampleBookingApp.exe
-C:\Users\Mikhail Shelomentsev\source\repos\SampleBookingApp\obj\Debug\SampleBookingApp.pdb
